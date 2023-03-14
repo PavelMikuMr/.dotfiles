@@ -1,0 +1,6 @@
+[user]
+        email = pavelmikumr@gmail.com
+        name = Pavel Miku
+[http]
+        sslverifiy = false
+        sslverify = false

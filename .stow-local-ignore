@@ -1,0 +1,11 @@
+# ~./dotfiles/.stow.local.ignore: Files to be ignored by gnu 'stow'
+
+\.git
+\.gitignore
+
+misc
+^/README.*
+^/LICENSE.*
+^/COPYING
+
+^/.*\.org

@@ -5,6 +5,7 @@
 
 misc
 ^/LICENSE.*
+README.*
 ^/COPYING
 
 ^/.*\.org

@@ -4,7 +4,6 @@
 \.gitignore
 
 misc
-^/README.*
 ^/LICENSE.*
 ^/COPYING
 
